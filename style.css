@@ -1,0 +1,18 @@
+body{
+	background-image: url("concrete-road.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.canvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:dotted;
+    background-image: url("parkingLot.jpg");
+}
+
+h1,h3,h4
+{
+	color: rgb(255, 241, 43) !important;
+}
